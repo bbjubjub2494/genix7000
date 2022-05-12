@@ -1,0 +1,7 @@
+name = "genix7000"
+
+[[commands]]
+package = "inkscape"
+
+[[commands]]
+package = "openscad"
