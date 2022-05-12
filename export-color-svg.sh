@@ -36,7 +36,7 @@ EOF
 inkscape --batch-process --actions='select-all;FitCanvasToSelection;FileSave' ${PROFILE}.svg
 }
 
-for profile in nix nix-grid nix-gapless; do
+for profile in monochrome nix nix-grid nix-gapless; do
     export PROFILE=$profile
     export_svg
 done

@@ -19,6 +19,25 @@
             "show_hexgrid": "false",
             "unit": "25"
         },
+        "monochrome": {
+            "aperture": "2",
+            "circle_h": "6",
+            "circle_r": "55",
+            "circle_t": "6",
+            "clipr": "8",
+            "colors": "[\"#000000\", \"#000000\"]",
+            "gaps": "1",
+            "hole_ratio": "1.07",
+            "invclip": "false",
+            "length": "4",
+            "num": "6",
+            "pin_r": "3",
+            "printed_h": "30",
+            "printed_version": "none",
+            "show_full": "true",
+            "show_hexgrid": "false",
+            "unit": "25"
+        },
         "nix-grid": {
             "aperture": "2",
             "circle_h": "6",
